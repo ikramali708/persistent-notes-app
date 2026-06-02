@@ -345,6 +345,8 @@ export default function App() {
       ::-webkit-scrollbar { width:4px; }
       ::-webkit-scrollbar-track { background:transparent; }
       ::-webkit-scrollbar-thumb { background:var(--border); border-radius:10px; }
+      /* FOOTER */
+
 
       /* RESPONSIVE */
       @media(max-width:768px){
@@ -559,6 +561,28 @@ export default function App() {
             </div>
           )}
         </div>
+        {/* ── FOOTER ── */}
+        <footer style={{
+          borderTop: "1px solid rgba(255,255,255,0.07)",
+          padding: "14px 20px",
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "space-between",
+          flexWrap: "wrap",
+          gap: "8px",
+          marginTop: "auto",
+          background: "var(--bg-primary)",
+          transition: "background 0.3s",
+        }}>
+          <span style={{ fontSize: "12px", color: "var(--text-muted)" }}>
+            Made By{" "}
+
+            <span style={{ color: "var(--accent-hover)", fontWeight: 600 }}>Ikram Ali</span>
+          </span>
+          <span style={{ fontSize: "12px", color: "var(--text-muted)" }}>
+            © {new Date().getFullYear()} Smart Notes. All rights reserved.
+          </span>
+        </footer>
       </main>
 
       <ToastContainer
