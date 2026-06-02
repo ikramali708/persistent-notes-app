@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Presistent Mini Project\\Presistent Mini App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD7A9F5-111E-5703-CE61-2C56BD281B6C}|Presistent Mini App\\Presistent Mini App.csproj|e:\\presistent mini project\\presistent mini app\\presistent mini app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD7A9F5-111E-5703-CE61-2C56BD281B6C}|Presistent Mini App\\Presistent Mini App.csproj|solutionrelative:presistent mini app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD7A9F5-111E-5703-CE61-2C56BD281B6C}|Presistent Mini App\\Presistent Mini App.csproj|e:\\presistent mini project\\presistent mini app\\presistent mini app\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD7A9F5-111E-5703-CE61-2C56BD281B6C}|Presistent Mini App\\Presistent Mini App.csproj|solutionrelative:presistent mini app\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD7A9F5-111E-5703-CE61-2C56BD281B6C}|Presistent Mini App\\Presistent Mini App.csproj|e:\\presistent mini project\\presistent mini app\\presistent mini app\\migrations\\20260602012153_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD7A9F5-111E-5703-CE61-2C56BD281B6C}|Presistent Mini App\\Presistent Mini App.csproj|solutionrelative:presistent mini app\\migrations\\20260602012153_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD7A9F5-111E-5703-CE61-2C56BD281B6C}|Presistent Mini App\\Presistent Mini App.csproj|e:\\presistent mini project\\presistent mini app\\presistent mini app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AD7A9F5-111E-5703-CE61-2C56BD281B6C}|Presistent Mini App\\Presistent Mini App.csproj|solutionrelative:presistent mini app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD7A9F5-111E-5703-CE61-2C56BD281B6C}|Presistent Mini App\\Presistent Mini App.csproj|e:\\presistent mini project\\presistent mini app\\presistent mini app\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD7A9F5-111E-5703-CE61-2C56BD281B6C}|Presistent Mini App\\Presistent Mini App.csproj|solutionrelative:presistent mini app\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD7A9F5-111E-5703-CE61-2C56BD281B6C}|Presistent Mini App\\Presistent Mini App.csproj|e:\\presistent mini project\\presistent mini app\\presistent mini app\\models\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD7A9F5-111E-5703-CE61-2C56BD281B6C}|Presistent Mini App\\Presistent Mini App.csproj|solutionrelative:presistent mini app\\models\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "E:\\Presistent Mini Project\\Presistent Mini App\\Presistent Mini App\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "Presistent Mini App\\Controllers\\NotesController.cs",
+              "ToolTip": "E:\\Presistent Mini Project\\Presistent Mini App\\Presistent Mini App\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "Presistent Mini App\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T01:24:20.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260602012153_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Presistent Mini Project\\Presistent Mini App\\Presistent Mini App\\Migrations\\20260602012153_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Presistent Mini App\\Migrations\\20260602012153_InitialCreate.cs",
+              "ToolTip": "E:\\Presistent Mini Project\\Presistent Mini App\\Presistent Mini App\\Migrations\\20260602012153_InitialCreate.cs",
+              "RelativeToolTip": "Presistent Mini App\\Migrations\\20260602012153_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T01:21:56.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Presistent Mini Project\\Presistent Mini App\\Presistent Mini App\\appsettings.json",
+              "RelativeDocumentMoniker": "Presistent Mini App\\appsettings.json",
+              "ToolTip": "E:\\Presistent Mini Project\\Presistent Mini App\\Presistent Mini App\\appsettings.json",
+              "RelativeToolTip": "Presistent Mini App\\appsettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-02T01:09:18.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Presistent Mini Project\\Presistent Mini App\\Presistent Mini App\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Presistent Mini App\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Presistent Mini Project\\Presistent Mini App\\Presistent Mini App\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Presistent Mini App\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T01:08:59.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Notes.cs",
+              "DocumentMoniker": "E:\\Presistent Mini Project\\Presistent Mini App\\Presistent Mini App\\Models\\Notes.cs",
+              "RelativeDocumentMoniker": "Presistent Mini App\\Models\\Notes.cs",
+              "ToolTip": "E:\\Presistent Mini Project\\Presistent Mini App\\Presistent Mini App\\Models\\Notes.cs",
+              "RelativeToolTip": "Presistent Mini App\\Models\\Notes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T01:08:19.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Presistent Mini Project\\Presistent Mini App\\Presistent Mini App\\Program.cs",
+              "RelativeDocumentMoniker": "Presistent Mini App\\Program.cs",
+              "ToolTip": "E:\\Presistent Mini Project\\Presistent Mini App\\Presistent Mini App\\Program.cs",
+              "RelativeToolTip": "Presistent Mini App\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T00:45:45.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

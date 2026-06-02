@@ -1,0 +1,316 @@
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\appsettings.Development.json
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\appsettings.json
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Presistent Mini App.staticwebassets.endpoints.json
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Presistent Mini App.exe
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Presistent Mini App.deps.json
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Presistent Mini App.runtimeconfig.json
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Presistent Mini App.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Presistent Mini App.pdb
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.OpenApi.dll
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\Presistent Mini App.csproj.AssemblyReference.cache
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\Presistent Mini App.GeneratedMSBuildEditorConfig.editorconfig
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\Presistent Mini App.AssemblyInfoInputs.cache
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\Presistent Mini App.AssemblyInfo.cs
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\Presistent Mini App.csproj.CoreCompileInputs.cache
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\Presistent Mini App.MvcApplicationPartsAssemblyInfo.cs
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\Presistent Mini App.MvcApplicationPartsAssemblyInfo.cache
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\scopedcss\bundle\Presistent Mini App.styles.css
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\staticwebassets.build.json
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\staticwebassets.development.json
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\swae.build.ex.cache
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\Presiste.BEEE71D9.Up2Date
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\Presistent Mini App.dll
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\refint\Presistent Mini App.dll
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\Presistent Mini App.pdb
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\Presistent Mini App.genruntimeconfig.cache
+E:\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\ref\Presistent Mini App.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Azure.Core.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Azure.Identity.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Humanizer.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Mono.TextTemplating.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.ClientModel.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.CodeDom.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Composition.Convention.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Composition.Hosting.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Composition.Runtime.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Composition.TypedParts.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Memory.Data.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Drawing.Common.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Runtime.Caching.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Security.Permissions.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Windows.Extensions.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\appsettings.Development.json
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\appsettings.json
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Presistent Mini App.staticwebassets.endpoints.json
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Presistent Mini App.exe
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Presistent Mini App.deps.json
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Presistent Mini App.runtimeconfig.json
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Presistent Mini App.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Presistent Mini App.pdb
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Azure.Core.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Azure.Identity.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Humanizer.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.OpenApi.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Mono.TextTemplating.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.ClientModel.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.CodeDom.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Composition.Convention.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Composition.Hosting.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Composition.Runtime.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Composition.TypedParts.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Drawing.Common.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Memory.Data.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Runtime.Caching.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Security.Permissions.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\System.Windows.Extensions.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\Presistent Mini App.csproj.AssemblyReference.cache
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\Presistent Mini App.GeneratedMSBuildEditorConfig.editorconfig
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\Presistent Mini App.AssemblyInfoInputs.cache
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\Presistent Mini App.AssemblyInfo.cs
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\Presistent Mini App.csproj.CoreCompileInputs.cache
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\Presistent Mini App.MvcApplicationPartsAssemblyInfo.cs
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\Presistent Mini App.MvcApplicationPartsAssemblyInfo.cache
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\scopedcss\bundle\Presistent Mini App.styles.css
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\staticwebassets.build.json
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\staticwebassets.development.json
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\swae.build.ex.cache
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\Presiste.BEEE71D9.Up2Date
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\Presistent Mini App.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\refint\Presistent Mini App.dll
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\Presistent Mini App.pdb
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\Presistent Mini App.genruntimeconfig.cache
+E:\Presistent Mini Project\Presistent Mini App\Presistent Mini App\obj\Debug\net10.0\ref\Presistent Mini App.dll
