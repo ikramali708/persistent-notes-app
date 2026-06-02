@@ -28,7 +28,7 @@ function getTagColor(id) {
   return TAG_COLORS[Math.abs(idx)];
 }
 
-// ── NOTE CARD ──────────────────────────────────────────────
+// Note Card
 const NoteCard = memo(function NoteCard({ note, index, onPin, onDelete, onEdit }) {
   const [spinning, setSpinning] = useState(false);
   const [shaking, setShaking] = useState(false);
@@ -419,7 +419,7 @@ export default function App() {
       .catch(() => toast.error("Failed to update note"));
   }, [loadNotes]);
 
-  // ── FILTER ────────────────────────────────────────────────
+  // Filter Section
   const filtered = notes.filter(n =>
     n.title.toLowerCase().includes(search.toLowerCase()) ||
     n.content.toLowerCase().includes(search.toLowerCase())
