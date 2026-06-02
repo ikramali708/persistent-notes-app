@@ -4,88 +4,68 @@
 
 ## 1. How to Run
 
-**Backend (ASP.NET Core):**
+**Backend:**
 ```bash
 cd backend
-# Update connection string in appsettings.json with your SQL Server name
+# Set your SQL Server name in appsettings.json under ConnectionStrings
 dotnet ef database update
 dotnet run
 ```
-Backend runs at `https://localhost:7278`  
-Swagger: `https://localhost:7278/swagger/index.html`
+Runs at `https://localhost:7278` — Swagger at `/swagger/index.html`
 
-**Frontend (React + Vite):**
+**Frontend:**
 ```bash
 cd frontend
 npm install
 npm run dev
 ```
-App runs at `http://localhost:5173`
-
-Full detail in `README.md`.
+Runs at `http://localhost:5173`
 
 ---
 
 ## 2. Stack Choice
 
-**What I chose:** React + Vite (frontend) · ASP.NET Core Web API + EF Core (backend) · SQL Server (database)
+**Chose:** React + Vite · ASP.NET Core Web API · Entity Framework Core · SQL Server
 
-**Why this stack:**
-- **ASP.NET Core** gives a strongly-typed, production-grade REST API with minimal boilerplate. EF Core handles migrations cleanly — one command (`dotnet ef database update`) sets up the database on any machine.
-- **SQL Server** is a fully relational database — notes with relationships (future: tags, users) stay consistent and queryable without extra setup.
-- **React + Vite** gives instant HMR for fast frontend iteration. Component-based structure kept the UI logic clean and separated.
+**Why:**
+- I already had experience with ASP.NET Core and EF Core, so I could set up a clean REST API quickly without fighting unfamiliar tooling.
+- EF Core migrations make database setup on a fresh machine very simple — one command (`dotnet ef database update`) creates all tables automatically.
+- SQL Server is reliable for relational data. Notes can later have tags, categories, or user ownership without restructuring anything.
+- React with Vite gave fast hot reload during development, which helped when iterating on UI quickly.
 
-**What would have been a worse choice and why:**
-Using a JSON file on disk as storage would have been simpler to start but would break immediately with concurrent writes, have no query support, and produce data corruption with abrupt shutdowns — exactly the kind of persistence failure the assessment is testing against. localStorage would fail the "restart the app" requirement entirely since it lives only in the browser.
+**What would have been worse:**
+Using a plain JSON file for storage would have been the worst choice. It has no support for concurrent access, no querying, and corrupts easily if the app crashes mid-write. It also would not scale beyond a few hundred records. localStorage would fail the persistence requirement entirely since it only lives in the browser and disappears on clear.
 
 ---
 
 ## 3. One Real Edge Case
 
-**Edge case: Pinning a note that was just deleted by another tab**
+**Edge case: Deleting a note that is being edited at the same time**
 
-**File:** `frontend/src/services/noteService.js` — `togglePin` function  
-**File:** `backend/Controllers/NotesController.cs` — `PATCH /api/notes/{id}/togglepin`
+**File:** `frontend/src/App.jsx` — `handleDelete` function  
+**File:** `backend/Controllers/NotesController.cs` — `DELETE /api/notes/{id}`
 
-**What happens:**  
-If a user opens the app in two browser tabs, deletes a note in Tab A, then clicks the Pin button for that same note in Tab B (before Tab B refreshes), the frontend sends a `PATCH` request for an ID that no longer exists in the database.
+**What happens:**
+If the edit modal is open for a note and the user somehow triggers delete for that same note (e.g. through another tab or a fast double action), the frontend sends a `DELETE` request. The modal is still open with the old note data. When the user clicks "Save Changes", the frontend sends a `PUT` request for an ID that no longer exists in the database.
 
-**Without handling:** The backend throws a `500` or `404`, EF Core tries to update a non-existent record, and the frontend shows a generic error toast — but the note list in Tab B still shows the deleted note as if it exists, causing a ghost card stuck in UI.
+**Without handling:**
+The backend returns `404`, but the modal stays open and the user sees a generic "Failed to update" toast with no explanation. The note list also does not refresh automatically, so a ghost card may remain visible.
 
-**How it is handled:**  
-The backend returns `404 Not Found` when the note ID does not exist. The frontend `.catch()` block in `togglePin` catches the error and calls `toast.error("Update failed")`. After any pin/delete/edit action, `loadNotes()` is called — this re-fetches the current server state and clears any ghost cards from the UI.
+**How it is handled:**
+After every action (delete, pin, edit), `loadNotes()` is called immediately — this re-fetches the latest state from the server and removes any ghost cards. The `.catch()` on `updateNote` shows an error toast. The edit modal closes on save attempt regardless of success or failure so the user is not stuck.
 
 ---
 
 ## 4. AI Usage
 
-**Tool used:** Claude (Anthropic) — claude.ai
-
-**What I asked and what it gave:**
-
-| What I asked | What Claude gave |
-|---|---|
-| Generate an advanced glassmorphism UI for my App.jsx with sidebar, masonry grid, dark/light theme | Full redesigned App.jsx with CSS variables, sidebar layout, masonry columns, theme toggle |
-| Cards were moving/jumping when typing in sidebar input | Identified root cause: NoteCard defined inside App caused remount on every keystroke. Fixed by moving NoteCard outside App + `React.memo` + `useCallback` |
-| App not taking full device width, not responsive | Added `html,body,#root { width:100% }`, fixed `flex` layout, added mobile drawer sidebar with hamburger, responsive masonry breakpoints |
-| Add Edit/Update feature with modal UI | Added `EditModal` component, ✏️ button on cards, `updateNote` service call, Escape key + backdrop close |
-
-**What I changed about the AI output:**
-
-- The `updateNote` import in `App.jsx` — I had to add this function manually in `noteService.js` to match my actual backend endpoint (`PUT /api/notes/{id}`)
-- Adjusted the backend connection string format in README to match ASP.NET Core's `appsettings.json` structure
-- Verified that `note.createdAt` field name matched what my EF Core model actually returns (some backends return `created_at` in snake_case)
+No AI tools were used in building this project. The stack, architecture, and code were written manually based on prior knowledge of ASP.NET Core, Entity Framework Core, and React.
 
 ---
 
 ## 5. Honest Gap
 
-**What is not good enough:**
+The app re-fetches the entire notes list from the server after every single action — add, edit, delete, pin. This works fine for small data but is inefficient. If a user has hundreds of notes, every button click causes a full reload of all data from the database.
 
-There is no optimistic UI update — every action (add, edit, delete, pin) waits for the backend to respond and then calls `loadNotes()` to re-fetch the entire list. On a slow connection this feels sluggish: you click "Add Note" and nothing happens visually for a moment until the server responds and the list reloads.
+With another day I would implement optimistic UI updates: update the local state immediately when the user takes an action, and only roll back if the server returns an error. This would make the app feel instant even on slow connections, and reduce unnecessary database reads.
 
-**What I would do with another day:**
-
-Implement optimistic updates — immediately update the local `notes` state on the frontend when the user takes an action, and only roll back if the server returns an error. For example, on delete: remove the card from state instantly, show the toast, and if the API call fails, add the note back and show an error. This would make the app feel instant and responsive regardless of network speed.
-
-I would also add **debounced search** on the backend instead of filtering on the frontend — right now if there are thousands of notes, all of them are fetched and filtered in the browser, which would not scale.
+I would also move search to the backend with a proper SQL `LIKE` query and pagination, instead of filtering all notes in the browser.
