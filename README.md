@@ -2,7 +2,7 @@
 
 A full-stack **Notes Management Application** built with **React (Frontend)** and **ASP.NET Core Web API + EF Core + SQL Server (Backend)**.
 
-This project allows users to create, update, delete, pin, and search notes in a clean Google Keep–style UI.
+This project allowsthe users to create, update, delete, pin, and search notes in a clean Google Keep–style UI.
 
  🚀 Live Features
 
